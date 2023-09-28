@@ -1,0 +1,4 @@
+stock_id,date_id,seconds_in_bucket,time_id,revealed_target,revealed_date_id,revealed_time_id
+0,481,0,26455,-1.2797117,480,26400
+1,481,0,26455,-4.4602156,480,26400
+2,481,0,26455,5.8996677,480,26400

@@ -1,0 +1,4 @@
+stock_id,date_id,seconds_in_bucket,imbalance_size,imbalance_buy_sell_flag,reference_price,matched_size,far_price,near_price,bid_price,bid_size,ask_price,ask_size,wap,time_id,row_id
+0,481,0,5497966.18,-1,1.000126,26466712.51,,,0.99995,11324.0,1.000126,28315.0,1.0,26455,481_0_0
+1,481,0,0.0,0,1.000209,11301206.67,,,0.999778,18758.73,1.000209,17651.95,1.0,26455,481_0_1
+2,481,0,5439944.9,-1,0.999948,13413115.07,,,0.999948,9445.5,1.000636,116259.6,1.0,26455,481_0_2
